@@ -1,0 +1,4 @@
+# Service sets motion mode for MD devices
+
+uint16[] device_ids # Device IDs
+string[] mode       # Mode for each device: "IMPEDANCE", "POSITION_PID", "VELOCITY_PID", "RAW_TORQUE"

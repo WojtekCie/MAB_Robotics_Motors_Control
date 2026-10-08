@@ -1,0 +1,4 @@
+# generated from rosidl_cmake/cmake/rosidl_cmake-extras.cmake.in
+
+set(candle_ros2_IDL_FILES "msg/ImpedanceCmd.idl;msg/MotionCmd.idl;msg/Pid.idl;msg/VelocityPidCmd.idl;msg/PositionPidCmd.idl;msg/BrakeResistorData.idl;msg/ControlModuleData.idl;msg/IsolatedConverterData.idl;msg/PowerStageData.idl;srv/AddDevices.idl;srv/Generic.idl;srv/GenericPds.idl;srv/SetLimits.idl;srv/SetMode.idl")
+set(candle_ros2_INTERFACE_FILES "msg/ImpedanceCmd.msg;msg/MotionCmd.msg;msg/Pid.msg;msg/VelocityPidCmd.msg;msg/PositionPidCmd.msg;msg/BrakeResistorData.msg;msg/ControlModuleData.msg;msg/IsolatedConverterData.msg;msg/PowerStageData.msg;srv/AddDevices.srv;srv/AddDevices_Request.msg;srv/AddDevices_Response.msg;srv/Generic.srv;srv/Generic_Request.msg;srv/Generic_Response.msg;srv/GenericPds.srv;srv/GenericPds_Request.msg;srv/GenericPds_Response.msg;srv/SetLimits.srv;srv/SetLimits_Request.msg;srv/SetLimits_Response.msg;srv/SetMode.srv;srv/SetMode_Request.msg;srv/SetMode_Response.msg")

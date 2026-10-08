@@ -1,0 +1,19 @@
+{
+  "package_name": "candle_ros2",
+  "non_idl_tuples": [
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/ImpedanceCmd.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/MotionCmd.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/Pid.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/VelocityPidCmd.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/PositionPidCmd.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/BrakeResistorData.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/ControlModuleData.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/IsolatedConverterData.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:msg/PowerStageData.msg",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:srv/AddDevices.srv",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:srv/Generic.srv",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:srv/GenericPds.srv",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:srv/SetLimits.srv",
+    "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2:srv/SetMode.srv"
+  ]
+}

@@ -1,0 +1,525 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-41eee64fb0a0c705faa4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						24,
+						25,
+						26
+					]
+				},
+				{
+					"build" : "candle_ros2__py",
+					"jsonFile" : "directory-candle_ros2__py-4777d8649f9002a2d7d1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/build/candle_ros2/candle_ros2__py",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "CANdle-SDK",
+					"childIndexes" : 
+					[
+						3,
+						9
+					],
+					"jsonFile" : "directory-CANdle-SDK-a74b40407d5f9f4f8dd6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "CANdle-SDK"
+				},
+				{
+					"build" : "CANdle-SDK/commons",
+					"childIndexes" : 
+					[
+						4,
+						5,
+						8
+					],
+					"jsonFile" : "directory-CANdle-SDK.commons-d0a40a5ae71d74fc2283.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 2,
+					"source" : "CANdle-SDK/commons",
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"build" : "CANdle-SDK/commons/shared_data",
+					"jsonFile" : "directory-CANdle-SDK.commons.shared_data-7c13ee94bd50d40f6b5d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 3,
+					"source" : "CANdle-SDK/commons/shared_data"
+				},
+				{
+					"build" : "CANdle-SDK/commons/googletest",
+					"childIndexes" : 
+					[
+						6
+					],
+					"jsonFile" : "directory-CANdle-SDK.commons.googletest-288581abdc289b32b0d8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 4,
+					"source" : "CANdle-SDK/commons/googletest"
+				},
+				{
+					"build" : "CANdle-SDK/commons/googletest/googlemock",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-CANdle-SDK.commons.googletest.googlemock-6f7e91e59bc63e8dc76b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 5,
+					"projectIndex" : 5,
+					"source" : "CANdle-SDK/commons/googletest/googlemock",
+					"targetIndexes" : 
+					[
+						19,
+						20
+					]
+				},
+				{
+					"build" : "CANdle-SDK/commons/googletest/googletest",
+					"jsonFile" : "directory-CANdle-SDK.commons.googletest.googletest-0e9af6dfc77f1ca12b85.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 6,
+					"source" : "CANdle-SDK/commons/googletest/googletest",
+					"targetIndexes" : 
+					[
+						21,
+						22
+					]
+				},
+				{
+					"build" : "CANdle-SDK/commons/unit_test_runner",
+					"jsonFile" : "directory-CANdle-SDK.commons.unit_test_runner-be3950fe6024cc9031aa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 2,
+					"source" : "CANdle-SDK/commons/unit_test_runner"
+				},
+				{
+					"build" : "CANdle-SDK/candlelib",
+					"jsonFile" : "directory-CANdle-SDK.candlelib-30aecc020310b8cb5aed.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 7,
+					"source" : "CANdle-SDK/candlelib",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "candle_ros2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						24,
+						25,
+						26
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						7
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "candlesdk",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3,
+						4
+					],
+					"directoryIndexes" : 
+					[
+						3,
+						8
+					],
+					"name" : "commons",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						23
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "shared_data",
+					"parentIndex" : 2
+				},
+				{
+					"childIndexes" : 
+					[
+						5
+					],
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 2
+				},
+				{
+					"childIndexes" : 
+					[
+						6
+					],
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "gmock",
+					"parentIndex" : 4,
+					"targetIndexes" : 
+					[
+						19,
+						20
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						7
+					],
+					"name" : "gtest",
+					"parentIndex" : 5,
+					"targetIndexes" : 
+					[
+						21,
+						22
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						9
+					],
+					"name" : "candlelib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_candle_ros2_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_candle_ros2_egg-41bc37390b37058d8870.json",
+					"name" : "ament_cmake_python_build_candle_ros2_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_candle_ros2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_candle_ros2-49680b99c755e5fd9caa.json",
+					"name" : "ament_cmake_python_copy_candle_ros2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "candle::@1f344b4fcfc62d095380",
+					"jsonFile" : "target-candle-9249a8f4613121b3212f.json",
+					"name" : "candle",
+					"projectIndex" : 7
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_container::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_container-33987382e12ab04d8441.json",
+					"name" : "candle_container",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2-f6a51e0308ac6aad0a78.json",
+					"name" : "candle_ros2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__cpp-62af3276e95212e3ed64.json",
+					"name" : "candle_ros2__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "candle_ros2__py::@24aa5a1ae6e1317a4f40",
+					"jsonFile" : "target-candle_ros2__py-208c6cfe720cb98a3cb3.json",
+					"name" : "candle_ros2__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_generator_c-179bf7cd5b5a7368ac41.json",
+					"name" : "candle_ros2__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_generator_py-ef08e4eb714e302714a7.json",
+					"name" : "candle_ros2__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_c-2b2190dae981708de5db.json",
+					"name" : "candle_ros2__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_c__pyext-934098e55cd1d743ae47.json",
+					"name" : "candle_ros2__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_cpp-2b07849c7599f95a200a.json",
+					"name" : "candle_ros2__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_fastrtps_c-eba3b74222b29c525483.json",
+					"name" : "candle_ros2__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_fastrtps_c__pyext-5dd6e57cf66c0f3047e2.json",
+					"name" : "candle_ros2__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_fastrtps_cpp-a726a8e9180714779a39.json",
+					"name" : "candle_ros2__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_introspection_c-8421693aea6fce33aa51.json",
+					"name" : "candle_ros2__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_introspection_c__pyext-b88b0fc0bba194b132a2.json",
+					"name" : "candle_ros2__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2__rosidl_typesupport_introspection_cpp-b80553707304e5267ad2.json",
+					"name" : "candle_ros2__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "candle_ros2_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-candle_ros2_uninstall-c5b860f06ae82375b25a.json",
+					"name" : "candle_ros2_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "gmock::@2dc5c35468af52ec42f5",
+					"jsonFile" : "target-gmock-1ac7bb154bd549b6c61f.json",
+					"name" : "gmock",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "gmock_main::@2dc5c35468af52ec42f5",
+					"jsonFile" : "target-gmock_main-974d701165bcd0ccd0e2.json",
+					"name" : "gmock_main",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "gtest::@2d91a562aa5ec078eb1c",
+					"jsonFile" : "target-gtest-fac78e841c725d23000d.json",
+					"name" : "gtest",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "gtest_main::@2d91a562aa5ec078eb1c",
+					"jsonFile" : "target-gtest_main-e8ff16db7b0e9165485b.json",
+					"name" : "gtest_main",
+					"projectIndex" : 6
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "logger::@fdb0d6297c3c80307105",
+					"jsonFile" : "target-logger-f9348a841094d306a67d.json",
+					"name" : "logger",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "md_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-md_node-a9f74bc0cab98e15ddf0.json",
+					"name" : "md_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pds_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pds_node-a76fa6cc9af0ad5554a9.json",
+					"name" : "pds_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-47541009388d5938d014.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/build/candle_ros2",
+		"source" : "/home/wojtek/Desktop/MABRoboticsMotors/MAB_Robotics_Motors_Control/ROS2_ws/src/candle_ros2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

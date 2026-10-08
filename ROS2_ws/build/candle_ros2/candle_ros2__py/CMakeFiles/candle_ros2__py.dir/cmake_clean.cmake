@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "../rosidl_generator_py/candle_ros2/_candle_ros2_s.ep.rosidl_typesupport_c.c"
+  "../rosidl_generator_py/candle_ros2/_candle_ros2_s.ep.rosidl_typesupport_fastrtps_c.c"
+  "../rosidl_generator_py/candle_ros2/_candle_ros2_s.ep.rosidl_typesupport_introspection_c.c"
+  "../rosidl_generator_py/candle_ros2/msg/__init__.py"
+  "../rosidl_generator_py/candle_ros2/msg/_brake_resistor_data.py"
+  "../rosidl_generator_py/candle_ros2/msg/_brake_resistor_data_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_control_module_data.py"
+  "../rosidl_generator_py/candle_ros2/msg/_control_module_data_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_impedance_cmd.py"
+  "../rosidl_generator_py/candle_ros2/msg/_impedance_cmd_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_isolated_converter_data.py"
+  "../rosidl_generator_py/candle_ros2/msg/_isolated_converter_data_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_motion_cmd.py"
+  "../rosidl_generator_py/candle_ros2/msg/_motion_cmd_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_pid.py"
+  "../rosidl_generator_py/candle_ros2/msg/_pid_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_position_pid_cmd.py"
+  "../rosidl_generator_py/candle_ros2/msg/_position_pid_cmd_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_power_stage_data.py"
+  "../rosidl_generator_py/candle_ros2/msg/_power_stage_data_s.c"
+  "../rosidl_generator_py/candle_ros2/msg/_velocity_pid_cmd.py"
+  "../rosidl_generator_py/candle_ros2/msg/_velocity_pid_cmd_s.c"
+  "../rosidl_generator_py/candle_ros2/srv/__init__.py"
+  "../rosidl_generator_py/candle_ros2/srv/_add_devices.py"
+  "../rosidl_generator_py/candle_ros2/srv/_add_devices_s.c"
+  "../rosidl_generator_py/candle_ros2/srv/_generic.py"
+  "../rosidl_generator_py/candle_ros2/srv/_generic_pds.py"
+  "../rosidl_generator_py/candle_ros2/srv/_generic_pds_s.c"
+  "../rosidl_generator_py/candle_ros2/srv/_generic_s.c"
+  "../rosidl_generator_py/candle_ros2/srv/_set_limits.py"
+  "../rosidl_generator_py/candle_ros2/srv/_set_limits_s.c"
+  "../rosidl_generator_py/candle_ros2/srv/_set_mode.py"
+  "../rosidl_generator_py/candle_ros2/srv/_set_mode_s.c"
+  "CMakeFiles/candle_ros2__py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/candle_ros2__py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
